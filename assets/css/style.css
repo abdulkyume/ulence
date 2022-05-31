@@ -1,0 +1,130 @@
+body{
+  background-color: #F2F3F8;
+}
+.header {
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../img/1st.jpg");
+  background-position: center;
+  background-size: cover;
+}
+.boxshadow{
+  box-shadow: 1px 1px  #d9d6d8;
+}
+.hrline{
+  margin: 0;
+}
+.responsivenav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  width: 100%;
+}
+.cmnbtnr{
+  right: 0;
+  top: 40%;
+  z-index: 1;
+  position: absolute;
+}
+.cmnbtnl{
+  top: 40%;
+  z-index: 1;
+  position: absolute;
+}
+.cmnbtn{
+  border-radius: 50%;
+  border: none;
+  background-color: #d9d6d8;
+  padding: 0.2rem 0.5rem 0.2rem 0.5rem;
+}
+.autoplay{
+  position: relative;
+}
+.todaysdeal{
+  margin-top: 0.2rem;
+  background-color: #4CAF50;
+  border-radius: 4px;
+  padding: 0.2rem;
+}
+.carousel-inner{
+  border-radius: 4px;
+}
+.clisth{
+  background-color: #4CAF50;
+  border-radius: 5px 5px 0px 0px;
+  padding: 1rem 1rem 0.1rem 1rem;
+}
+.bg-prime{
+  background-color: #4CAF50;
+}
+.limg{
+  width: 20px;
+}
+.text-prime{
+  color: #4CAF50;
+}
+.cmnbrder{
+  border-bottom: 3px solid #4CAF50;
+  width: 10rem;
+  margin-left: 1rem;
+}
+.cmnbrder1{
+  border-bottom: 3px solid #4CAF50;
+  width: 10rem;
+}.hr{
+  margin: 0;
+  margin-left: 1rem;
+}
+.brderbtm{
+  border-bottom: 1px solid gray;
+  width: 78rem;
+  margin-left: 1rem;
+}
+.brderbtm1{
+  border-bottom: 1px solid gray;
+}
+.contacts{
+  background-color: #111723;
+}
+.fs-c{
+  font-size: 14px;
+}
+.footer{
+  background-color: #0D111B;
+}
+.fbc{
+  background-color: #3B5998;
+  border-radius: 50%;
+  padding: 0.5rem 0.8rem;
+}
+.twc{
+  background-color: #1DA1F2;
+  border-radius: 50%;
+  padding: 0.5rem 0.8rem;
+}
+.igc{
+  background-color: #BD32A2;
+  border-radius: 50%;
+  padding: 0.5rem 0.8rem;
+}
+.ytc{
+  background-color: #FF0000;
+  border-radius: 50%;
+  padding: 0.5rem 0.8rem;
+}
+.lnc{
+  background-color: #0070AC;
+  border-radius: 50%;
+  padding: 0.5rem 0.8rem;
+}
+.wpc{
+  background-color: #2EC650;
+  border-radius: 50%;
+  padding: 0.5rem 0.8rem;
+}
+.custombtn1{
+  background-color: #2EC650 !important;
+  border-radius: 50%;
+  width: 10px !important;
+  height: 10px !important;
+}
